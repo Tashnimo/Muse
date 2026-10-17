@@ -1,8 +1,1 @@
-{
-  "name": "muse-libre",
-  "version": "1.0.0",
-  "type": "module",
-  "private": true,
-  "scripts": { "start": "node --no-warnings start.mjs" },
-  "engines": { "node": ">=22.13" }
-}
+{"name":"mes-yeux","version":"1.0.0","type":"module","private":true,"scripts":{"start":"node --no-warnings start.mjs"},"engines":{"node":">=22.13"}}
